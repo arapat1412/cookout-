@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab64326ecec50ab42a8cf3d03c5547d8, type: 3}
+  m_Name: Hat_luffy
+  m_EditorClassIdentifier: 
+  id: 3
+  hatName: luffy
+  price: 150
+  prefab: {fileID: 3244350739774856584, guid: 41265b9d26f7c43488340e63a2e45977, type: 3}
+  icon: {fileID: 21300000, guid: 9c0501542c8512046b8cba28e2eddd6c, type: 3}
