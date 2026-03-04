@@ -33,8 +33,7 @@ You'll need to link the project to your own Unity Dashboard to use the UGS featu
 
 Setup
 Clone this repo:
-git clone https://github.com/arapat1412/Multiplayer-Cookout.git
-
+git clone https://github.com/arapat1412/cookout-.git
 Open the project in Unity Hub.
 
 Go to Edit > Project Settings > Services and link it to your Unity organization. Make sure Lobby, Relay, Cloud Save, and Authentication are enabled.
